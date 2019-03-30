@@ -34,8 +34,16 @@
           <option name="url" value="https://github.com/Nikola525/GoslingLovelaceApplicationBasic.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.cpm:XuanyuYe/Goslingtest.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/XuanyuYe/Goslingtest.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\AndroidProjects" />
+    <option name="cloneParentDir" value="C:\Users\Wang\Desktop\Temp" />
   </component>
 </application>
